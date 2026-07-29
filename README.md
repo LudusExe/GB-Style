@@ -1,9 +1,29 @@
-This texture pack is designed specifically for Minetest Game and includes textures for all the default content, providing a complete and consistent visual overhaul while preserving the original gameplay.
+This texture pack was created using a limited color palette inspired by the original Nintendo Game Boy aesthetic. It is designed for MTG and officially provides support for the following mods:
 
-Every texture is created using a limited color palette inspired by the Nintendo Game Boy, giving the game a distinctive retro monochrome aesthetic. The restricted palette recreates the iconic look of the original handheld while keeping every block, item, and node easily recognizable.
+* Beds
+* Binoculars
+* Bones
+* Bucket
+* Butterflies
+* Carts
+* Default
+* Doors
+* Dye
+* Farming
+* Fire
+* Fireflies
+* Flowers
+* Keys
+* Map
+* Mtg_craftguide
+* Player_api
+* Screwdriver
+* Stairs
+* Tnt
+* Vessels
+* Wool
+* Xpanes
 
-Recommended 🔗
+I Recommend the [Sky Color mod](https://content.luanti.org/packages/Ludus/color_sky/) made by me, as this texture pack does not modify the default sky.
 
-    A sky color mod to match the Game Boy-inspired palette, as this texture pack does not modify the default sky.
-
-The goal of this pack is to recreate the nostalgic atmosphere of the original Game Boy while remaining faithful to the look and mechanics of Minetest Game.
+If you don't like the textures, feel free to submit a pull request on GitHub.
