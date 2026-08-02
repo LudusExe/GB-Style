@@ -1,5 +1,4 @@
-This texture pack was created using a limited color palette inspired by the original Nintendo Game Boy aesthetic. It is designed for MTG and officially provides support for the following mods:
-
+This texture pack was created using a limited color palette inspired by classic monochrome handheld gaming systems made in Japan. It is designed for MTG and officially provides support for the following mods:
 * Beds
 * Binoculars
 * Bones
@@ -10,11 +9,13 @@ This texture pack was created using a limited color palette inspired by the orig
 * Doors
 * Dye
 * Farming
+* [Fingore](https://content.luanti.org/packages/Ludus/fingore/)
 * Fire
 * Fireflies
 * Flowers
 * Keys
 * Map
+* [Metallicum](https://content.luanti.org/packages/Ludus/metallicum/)
 * Mtg_craftguide
 * Player_api
 * Screwdriver
