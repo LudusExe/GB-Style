@@ -2,6 +2,7 @@ This texture pack was created using a limited color palette inspired by classic 
 * Beds
 * Binoculars
 * Bones
+* [Bone Meal](https://content.luanti.org/packages/TenPlus1/bonemeal/)
 * Bucket
 * Butterflies
 * Carts
@@ -16,8 +17,8 @@ This texture pack was created using a limited color palette inspired by classic 
 * Keys
 * Map
 * [Metallicum](https://content.luanti.org/packages/Ludus/metallicum/)
-* Mtg_craftguide
-* Player_api
+* Mtg Craftguide
+* Player Api
 * Screwdriver
 * Stairs
 * Tnt
