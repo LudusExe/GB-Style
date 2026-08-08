@@ -15,6 +15,7 @@ This texture pack was created using a limited color palette inspired by classic 
 * Fireflies
 * Flowers
 * Keys
+* [Loose Rocks](https://content.luanti.org/packages/eduardomezencio/loose_rocks/#description)
 * Map
 * [Metallicum](https://content.luanti.org/packages/Ludus/metallicum/)
 * Mtg Craftguide
