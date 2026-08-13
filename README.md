@@ -1,4 +1,5 @@
 This texture pack was created using a limited color palette inspired by classic monochrome handheld gaming systems made in Japan. It is designed for MTG and officially provides support for the following mods:
+* Base Pack
 * Beds
 * Binoculars
 * [Bone Meal](https://content.luanti.org/packages/TenPlus1/bonemeal/)
@@ -20,6 +21,7 @@ This texture pack was created using a limited color palette inspired by classic 
 * [Metallicum](https://content.luanti.org/packages/Ludus/metallicum/)
 * Mtg Craftguide
 * Player Api
+* [Schemedit](https://content.luanti.org/packages/Wuzzy/schemedit/)
 * Screwdriver
 * Stairs
 * Tnt
