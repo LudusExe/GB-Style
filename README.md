@@ -1,4 +1,5 @@
 This texture pack was created using a limited color palette inspired by classic monochrome handheld gaming systems made in Japan. It is designed for MTG and officially provides support for the following mods:
+* [3D Apple](https://content.luanti.org/packages/Emojiminetest/3d_apple/)
 * Base Pack
 * Beds
 * Binoculars
